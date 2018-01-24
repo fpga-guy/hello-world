@@ -16,3 +16,8 @@ Well, maybe not everything. I suppose a few remarks about GIT may be in order.
 * GIT is FANTASTIC
 
 Okay. Enough.
+
+# Goodbye-world
+Presumably, this second commit, made locally on my Windows 7 virtual machine, will be the final one.
+
+Only time will tell.
